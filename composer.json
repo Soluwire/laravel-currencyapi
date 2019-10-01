@@ -1,0 +1,30 @@
+{
+    "name": "soluwire/laravel-currencyapi",
+    "authors": [
+        {
+            "name": "Jack Bayliss",
+            "email": "jjbayliss@icloud.com"
+        }
+    ],
+    "license" : "MIT",
+    "keywords" : [
+        "laravel",
+        "php",
+        "location",
+        "currency",
+        "findcurrency",
+        "currencybyip",
+        "ip"
+    ],
+    "require": {
+        "ext-curl": "*"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "soluwire\\currencyapi\\": "src/"
+        }
+
+
+    }
+}
