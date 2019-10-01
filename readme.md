@@ -30,6 +30,18 @@ Once you've set your `default_currency`, you're ready to go- simply do the below
 \soluwire\currencyapi\Driver::CallApi("8.8.8.8") //Replace 8.8.8.8 with an ip of your choice, it'll return relevent information.
  ```
  
+ The currency API will return a response similar to the below. Which means you can then easily access the parameters.
+ ```php
+{
+ latitude: 39.0438
+ longitude: -77.4874
+ city: "Ashburn"
+ region: "VA"
+ currency": "$"
+}
+ ```
+ 
+ 
 
   ## Authors
   * Jack Bayliss - Initial work
