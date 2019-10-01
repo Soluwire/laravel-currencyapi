@@ -11,7 +11,7 @@ Class Driver {
      * @param String $ip
      * @return Position $position
      */
-    public static function CallApi(String $ip) {
+    public static function CallApi(String $ip): Position {
        
         // Get our config to find the default set.
         $api = config('currencyapi.default_api');
