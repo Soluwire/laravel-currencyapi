@@ -1,4 +1,4 @@
-# Laravel currency api API
+# Laravel Currency API
 
 
 ## Why?
@@ -36,7 +36,12 @@ Once you've set your `default_currency`, you're ready to go- simply do the below
   
  ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/soluwire/laravel-currencyapi/blob/master/LICENSE) file for details
-  
+ ## Issues
+ If you have any issues please submit an issue, I'll review it as soon as I get time.
+ 
+ ## Contributions
+ If you would like to contribute, feel free to make a fork & i'll review any changes.
+ 
   
   That's all folks 👍
   
