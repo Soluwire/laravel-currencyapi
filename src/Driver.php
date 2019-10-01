@@ -9,6 +9,7 @@ Class Driver {
      * Calls our default driver, found in our config.
      *
      * @param String $ip
+     * @return Position $position
      */
     public static function CallApi(String $ip) {
        
